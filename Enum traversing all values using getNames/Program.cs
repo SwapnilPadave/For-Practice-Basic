@@ -8,7 +8,7 @@ namespace Enum_traversing_all_values_using_getNames
 
         public static void Main()
         {
-            foreach (string s in Enum.GetNames(typeof(Days)))
+            foreach (Days s in Enum.GetValues(typeof(Days)))
             {
                 Console.WriteLine(s);
             }
