@@ -61,55 +61,57 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception Handling", "Excep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception User Define(Custom Exception)", "Exception User Define(Custom Exception)\Exception User Define(Custom Exception).csproj", "{263F98C8-FEAD-400B-B895-8719B65F4B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping Two Numbers", "Swapping Two Numbers\Swapping Two Numbers.csproj", "{4024A595-FAD8-42DA-9B80-09EB17F96D50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swapping Two Numbers", "Swapping Two Numbers\Swapping Two Numbers.csproj", "{4024A595-FAD8-42DA-9B80-09EB17F96D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Series", "Fibonacci Series\Fibonacci Series.csproj", "{B4A8A517-7C91-4FF4-B556-E417E818FB7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci Series", "Fibonacci Series\Fibonacci Series.csproj", "{B4A8A517-7C91-4FF4-B556-E417E818FB7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Of The String", "Reverse Of The String\Reverse Of The String.csproj", "{0F9CE6F5-084F-4984-AB97-EF72B1E14433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Of The String", "Reverse Of The String\Reverse Of The String.csproj", "{0F9CE6F5-084F-4984-AB97-EF72B1E14433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square Root Of Number", "Square Root Of Number\Square Root Of Number.csproj", "{8399DBC3-710A-4754-9B66-92015B8814A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square Root Of Number", "Square Root Of Number\Square Root Of Number.csproj", "{8399DBC3-710A-4754-9B66-92015B8814A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Big No", "Second Big No\Second Big No.csproj", "{B15B467A-6049-44F6-8DCF-8EAD513A65D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second Big No", "Second Big No\Second Big No.csproj", "{B15B467A-6049-44F6-8DCF-8EAD513A65D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Even Number From The List", "Find Even Number From The List\Find Even Number From The List.csproj", "{80AC991E-53A9-44BB-B23D-3A026E29F1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Even Number From The List", "Find Even Number From The List\Find Even Number From The List.csproj", "{80AC991E-53A9-44BB-B23D-3A026E29F1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Duplicate Number", "Find Duplicate Number\Find Duplicate Number.csproj", "{158911B2-800C-4BCB-B899-80E854744194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Duplicate Number", "Find Duplicate Number\Find Duplicate Number.csproj", "{158911B2-800C-4BCB-B899-80E854744194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missing Element From Array", "Missing Element From Array\Missing Element From Array.csproj", "{8A86F02E-296F-4DA6-A6E8-2767B1809E4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Missing Element From Array", "Missing Element From Array\Missing Element From Array.csproj", "{8A86F02E-296F-4DA6-A6E8-2767B1809E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 1", "Star Pattern\Star Pattern 1.csproj", "{A60FB4BD-ED26-4D08-BBFA-D3D424A7415D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 1", "Star Pattern\Star Pattern 1.csproj", "{A60FB4BD-ED26-4D08-BBFA-D3D424A7415D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 2", "Star Pattern 2\Star Pattern 2.csproj", "{39608B61-EB42-46AC-8169-89CBD30A17DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 2", "Star Pattern 2\Star Pattern 2.csproj", "{39608B61-EB42-46AC-8169-89CBD30A17DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 3", "Star Pattern 3\Star Pattern 3.csproj", "{0E83B303-0933-45A9-8227-BCD77C745387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 3", "Star Pattern 3\Star Pattern 3.csproj", "{0E83B303-0933-45A9-8227-BCD77C745387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 4", "Star Pattern 4\Star Pattern 4.csproj", "{24C3A6D2-C070-43CA-AA4F-85E65E9BD00F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 4", "Star Pattern 4\Star Pattern 4.csproj", "{24C3A6D2-C070-43CA-AA4F-85E65E9BD00F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 5", "Star Pattern 5\Star Pattern 5.csproj", "{9FB696D8-866A-4D68-AD69-5B7F04C677A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 5", "Star Pattern 5\Star Pattern 5.csproj", "{9FB696D8-866A-4D68-AD69-5B7F04C677A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 6", "Star Pattern 6\Star Pattern 6.csproj", "{52C2C2A8-6B02-4EAC-86EB-FA37583AA71A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 6", "Star Pattern 6\Star Pattern 6.csproj", "{52C2C2A8-6B02-4EAC-86EB-FA37583AA71A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pattern 7", "Star Pattern 7\Star Pattern 7.csproj", "{AFA028AF-C18A-4677-8D5F-1299B44D7046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Pattern 7", "Star Pattern 7\Star Pattern 7.csproj", "{AFA028AF-C18A-4677-8D5F-1299B44D7046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid Pattern 1", "Pyramid Pattern 1\Pyramid Pattern 1.csproj", "{C3A3A088-227D-44D1-B8C4-A7AB1734F161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyramid Pattern 1", "Pyramid Pattern 1\Pyramid Pattern 1.csproj", "{C3A3A088-227D-44D1-B8C4-A7AB1734F161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid Pattern 2", "Pyramid Pattern 2\Pyramid Pattern 2.csproj", "{7DBEF84A-5132-468D-9859-636397C548E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyramid Pattern 2", "Pyramid Pattern 2\Pyramid Pattern 2.csproj", "{7DBEF84A-5132-468D-9859-636397C548E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid Pattern 3", "Pyramid Pattern 3\Pyramid Pattern 3.csproj", "{8B9875F8-55E5-40F1-8261-4610E368C981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyramid Pattern 3", "Pyramid Pattern 3\Pyramid Pattern 3.csproj", "{8B9875F8-55E5-40F1-8261-4610E368C981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid Pattern 4", "Pyramid Pattern 4\Pyramid Pattern 4.csproj", "{4A6F2D34-0BE7-4060-B83E-1BF10655A105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyramid Pattern 4", "Pyramid Pattern 4\Pyramid Pattern 4.csproj", "{4A6F2D34-0BE7-4060-B83E-1BF10655A105}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond Problem", "Diamond Problem\Diamond Problem.csproj", "{484FC7D4-44F9-4E22-9DE8-A3572B8FD13A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diamond Problem", "Diamond Problem\Diamond Problem.csproj", "{484FC7D4-44F9-4E22-9DE8-A3572B8FD13A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checked And Unchecked", "Checked And Unchecked\Checked And Unchecked.csproj", "{ECC88EA7-BD3C-4A45-BFDC-CA1B6172E1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checked And Unchecked", "Checked And Unchecked\Checked And Unchecked.csproj", "{ECC88EA7-BD3C-4A45-BFDC-CA1B6172E1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreams", "FileStream\FileStreams.csproj", "{E9FFF29C-46AA-493F-A8F9-C0263D0B35F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStreams", "FileStream\FileStreams.csproj", "{E9FFF29C-46AA-493F-A8F9-C0263D0B35F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream Writer", "Stream Writer\Stream Writer.csproj", "{21F442A2-7B6A-498F-BD00-961E2895AC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stream Writer", "Stream Writer\Stream Writer.csproj", "{21F442A2-7B6A-498F-BD00-961E2895AC15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream Reader", "Stream Reader\Stream Reader.csproj", "{78375E80-62A1-40E9-8E20-C7431BEC4B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stream Reader", "Stream Reader\Stream Reader.csproj", "{78375E80-62A1-40E9-8E20-C7431BEC4B06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Writer", "Text Writer\Text Writer.csproj", "{6677EF69-B952-4DE5-A156-C26BB4A2743E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Text Writer", "Text Writer\Text Writer.csproj", "{6677EF69-B952-4DE5-A156-C26BB4A2743E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing Unboxing", "Boxing Unboxing\Boxing Unboxing.csproj", "{038DD48B-F164-47DA-8C47-F84368F53467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{6677EF69-B952-4DE5-A156-C26BB4A2743E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6677EF69-B952-4DE5-A156-C26BB4A2743E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6677EF69-B952-4DE5-A156-C26BB4A2743E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038DD48B-F164-47DA-8C47-F84368F53467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038DD48B-F164-47DA-8C47-F84368F53467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038DD48B-F164-47DA-8C47-F84368F53467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038DD48B-F164-47DA-8C47-F84368F53467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
